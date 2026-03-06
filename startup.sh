@@ -3,7 +3,7 @@ echo "🦀 nginx-webs startup — $(date)"
 
 WEBS_DIR="/var/webs"
 GITHUB_TOKEN="${GITHUB_TOKEN}"
-OK=0; SKIP=0; FAIL=0
+OK=0; SKIP=0; FAIL=0; FIX=0
 
 # Download fresh webs.txt from GitHub (bypasses Docker cache)
 echo "Downloading fresh webs.txt..."
@@ -15,12 +15,20 @@ while IFS='|' read -r sub repo; do
     [ -z "$sub" ] && continue
     echo "$sub" | grep -q '^#' && continue
     
-    if [ -f "$WEBS_DIR/$sub/index.html" ]; then
+    mkdir -p "$WEBS_DIR/$sub"
+    
+    # Check if file exists AND is valid HTML (contains <html)
+    if [ -f "$WEBS_DIR/$sub/index.html" ] && grep -qi '<html' "$WEBS_DIR/$sub/index.html" 2>/dev/null; then
         SKIP=$((SKIP+1))
         continue
     fi
     
-    mkdir -p "$WEBS_DIR/$sub"
+    # Remove corrupt file if exists
+    if [ -f "$WEBS_DIR/$sub/index.html" ]; then
+        echo "  🔄 $sub: corrupt, re-downloading..."
+        rm -f "$WEBS_DIR/$sub/index.html"
+        FIX=$((FIX+1))
+    fi
     
     HTTP_CODE=$(curl -s -w "%{http_code}" -o "$WEBS_DIR/$sub/index.html"         -H "Authorization: token $GITHUB_TOKEN"         -H "Accept: application/vnd.github.v3.raw"         "https://api.github.com/repos/magranero/$repo/contents/index.html")
     
@@ -34,6 +42,7 @@ while IFS='|' read -r sub repo; do
     fi
 done < /tmp/webs.txt
 
-echo "✅ New: $OK | ⏭️ Existing: $SKIP | ❌ Failed: $FAIL"
+echo "✅ New: $OK | 🔄 Fixed: $FIX | ⏭️ Existing: $SKIP | ❌ Failed: $FAIL"
 echo "Starting nginx..."
+cp /app/nginx.conf /etc/nginx/nginx.conf
 exec nginx -g "daemon off;"
