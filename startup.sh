@@ -5,6 +5,12 @@ WEBS_DIR="/var/webs"
 GITHUB_TOKEN="${GITHUB_TOKEN}"
 OK=0; SKIP=0; FAIL=0
 
+# Download fresh webs.txt from GitHub (bypasses Docker cache)
+echo "Downloading fresh webs.txt..."
+curl -s -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3.raw"     "https://api.github.com/repos/magranero/webs67-nginx/contents/webs.txt" > /tmp/webs.txt
+LINES=$(wc -l < /tmp/webs.txt)
+echo "Got $LINES entries"
+
 while IFS='|' read -r sub repo; do
     [ -z "$sub" ] && continue
     echo "$sub" | grep -q '^#' && continue
@@ -16,11 +22,7 @@ while IFS='|' read -r sub repo; do
     
     mkdir -p "$WEBS_DIR/$sub"
     
-    # Download raw file from GitHub
-    HTTP_CODE=$(curl -s -w "%{http_code}" -o "$WEBS_DIR/$sub/index.html" \
-        -H "Authorization: token $GITHUB_TOKEN" \
-        -H "Accept: application/vnd.github.v3.raw" \
-        "https://api.github.com/repos/magranero/$repo/contents/index.html")
+    HTTP_CODE=$(curl -s -w "%{http_code}" -o "$WEBS_DIR/$sub/index.html"         -H "Authorization: token $GITHUB_TOKEN"         -H "Accept: application/vnd.github.v3.raw"         "https://api.github.com/repos/magranero/$repo/contents/index.html")
     
     if [ "$HTTP_CODE" = "200" ] && [ -s "$WEBS_DIR/$sub/index.html" ]; then
         OK=$((OK+1))
@@ -30,7 +32,7 @@ while IFS='|' read -r sub repo; do
         echo "  ❌ $sub (HTTP $HTTP_CODE)"
         FAIL=$((FAIL+1))
     fi
-done < /app/webs.txt
+done < /tmp/webs.txt
 
 echo "✅ New: $OK | ⏭️ Existing: $SKIP | ❌ Failed: $FAIL"
 echo "Starting nginx..."
