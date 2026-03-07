@@ -484,3 +484,5 @@ cl-nica-sol-dental-prospe-0e33d1|cl-nica-sol-dental-prospe-0e33d1
 clinica-veterinaria-els-altres-landing|clinica-veterinaria-els-altres-landing
 alonzo-peluqueria-landing|alonzo-peluqueria-landing
 the-lab-room-landing|the-lab-room-landing
+gestinova-preview|gestinova-preview
+castizo-preview|castizo-preview
