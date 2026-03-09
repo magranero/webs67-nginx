@@ -486,3 +486,4 @@ alonzo-peluqueria-landing|alonzo-peluqueria-landing
 the-lab-room-landing|the-lab-room-landing
 gestinova-preview|gestinova-preview
 castizo-preview|castizo-preview
+vilascar-leganes-landing|vilascar-leganes-landing
