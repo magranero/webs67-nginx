@@ -502,3 +502,7 @@ paris-pardeiro-mostoles-landing|paris-pardeiro-mostoles-landing
 sentir-extranjero-mostoles-landing|sentir-extranjero-mostoles-landing
 wizner-abogados-mostoles-landing|wizner-abogados-mostoles-landing
 talleres-ajg-leganes-landing|talleres-ajg-leganes-landing
+fast-fitness-madrid-landing|fast-fitness-madrid-landing
+pura-vida-fitness-madrid-landing|pura-vida-fitness-madrid-landing
+lucas-franco-mostoles-landing|lucas-franco-mostoles-landing
+otus-abogados-mostoles-landing|otus-abogados-mostoles-landing
