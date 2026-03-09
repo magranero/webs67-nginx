@@ -570,3 +570,8 @@ centro-medico-artromur-especia-lorca-landing|centro-medico-artromur-especia-lorc
 reformas-y-tejados-azpilicueta-pamplona-landing|reformas-y-tejados-azpilicueta-pamplona-landing
 3abogados-madrid-landing|3abogados-madrid-landing
 seripau-gestoria-barcelona-barcelona-landing|seripau-gestoria-barcelona-barcelona-landing
+crevisa-viadero-sl-astillero-landing|crevisa-viadero-sl-astillero-landing
+fruteria-frutas-eloy-plaza-c-madrid-landing|fruteria-frutas-eloy-plaza-c-madrid-landing
+euriux-abogados-madrid-landing|euriux-abogados-madrid-landing
+restaurante-el-refugio-torrelavega-landing|restaurante-el-refugio-torrelavega-landing
+el-faro-terraza-asador-huelva-landing|el-faro-terraza-asador-huelva-landing
