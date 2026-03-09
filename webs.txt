@@ -540,3 +540,8 @@ la-negra-tomasa-madrid-landing|la-negra-tomasa-madrid-landing
 restaurante-hemisferio-loft-a-alcala-de-henares-landing|restaurante-hemisferio-loft-a-alcala-de-henares-landing
 la-venganza-de-malinche-rest-getafe-landing|la-venganza-de-malinche-rest-getafe-landing
 restaurante-el-balcon-del-parq-getafe-landing|restaurante-el-balcon-del-parq-getafe-landing
+hospital-veterinaria-del-mar-barcelona-landing|hospital-veterinaria-del-mar-barcelona-landing
+txirimiri-ibiza-madrid-landing|txirimiri-ibiza-madrid-landing
+hotel-eden-park-by-brava-hotel-riudellots-de-la-selva-landing|hotel-eden-park-by-brava-hotel-riudellots-de-la-selva-landing
+hostal-albany-leon-landing|hostal-albany-leon-landing
+hotel-asturias-gijon-landing|hotel-asturias-gijon-landing
