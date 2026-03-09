@@ -491,3 +491,4 @@ balance-triangle-madrid-landing|balance-triangle-madrid-landing
 bigg-chueca-madrid-landing|bigg-chueca-madrid-landing
 squmat--centro-de-entrenamiento-persona-madrid-landing|squmat--centro-de-entrenamiento-persona-madrid-landing
 entrenador-personal-madrid-edu-veiga-fit-madrid-landing|entrenador-personal-madrid-edu-veiga-fit-madrid-landing
+squmat-madrid-landing|squmat-madrid-landing
