@@ -550,3 +550,8 @@ moda-re-santander-santander-landing|moda-re-santander-santander-landing
 fitup-serrano-madrid-landing|fitup-serrano-madrid-landing
 talleres-ana--taller-mecanico-sant-adrià-de-besòs-landing|talleres-ana--taller-mecanico-sant-adrià-de-besòs-landing
 gestoria-barcelona-barcelona-landing|gestoria-barcelona-barcelona-landing
+berdin-alava-vitoria-gasteiz-landing|berdin-alava-vitoria-gasteiz-landing
+autoescuela-salamanca-carbajos-carbajosa-de-la-sagrada-landing|autoescuela-salamanca-carbajos-carbajosa-de-la-sagrada-landing
+muroa-pamplona-landing|muroa-pamplona-landing
+qb-constructora-granada-landing|qb-constructora-granada-landing
+asesoria-luis-casero-s-l--t-torrelavega-landing|asesoria-luis-casero-s-l--t-torrelavega-landing
