@@ -530,3 +530,8 @@ costa-sol-center-garage-marb-marbella-landing|costa-sol-center-garage-marb-marbe
 dr-medina-clinica-veterinaria-barcelona-landing|dr-medina-clinica-veterinaria-barcelona-landing
 farmacia-universidad-de-castel-castellon-de-la-plana-landing|farmacia-universidad-de-castel-castellon-de-la-plana-landing
 apartaments-els-quimics-gerona-landing|apartaments-els-quimics-gerona-landing
+grupo-palace-inmobiliaria-reus-reus-landing|grupo-palace-inmobiliaria-reus-reus-landing
+cerrajerias-teofilo-rodriguez-daganzo-de-arriba-landing|cerrajerias-teofilo-rodriguez-daganzo-de-arriba-landing
+rbr-instalaciones-o-milladoiro-landing|rbr-instalaciones-o-milladoiro-landing
+contabilidades-barcelona-sl-barcelona-landing|contabilidades-barcelona-sl-barcelona-landing
+tu-autoescuela-en-salamanca-salamanca-landing|tu-autoescuela-en-salamanca-salamanca-landing
