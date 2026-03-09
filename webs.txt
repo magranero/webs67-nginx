@@ -575,3 +575,4 @@ fruteria-frutas-eloy-plaza-c-madrid-landing|fruteria-frutas-eloy-plaza-c-madrid-
 euriux-abogados-madrid-landing|euriux-abogados-madrid-landing
 restaurante-el-refugio-torrelavega-landing|restaurante-el-refugio-torrelavega-landing
 el-faro-terraza-asador-huelva-landing|el-faro-terraza-asador-huelva-landing
+hotel-begona-playa-gijon-landing|hotel-begona-playa-gijon-landing
