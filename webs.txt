@@ -525,3 +525,8 @@ vilches-abogados-mostoles-mostoles-landing|vilches-abogados-mostoles-mostoles-la
 taller-mecanico-en-leganes--c-leganes-landing|taller-mecanico-en-leganes--c-leganes-landing
 316-gimnasio-fuenlabrada-fuenlabrada-landing|316-gimnasio-fuenlabrada-fuenlabrada-landing
 autoescuela-el-pilar--torcal-santa-marta-de-tormes-landing|autoescuela-el-pilar--torcal-santa-marta-de-tormes-landing
+talleres-cuenca-leganes-landing|talleres-cuenca-leganes-landing
+costa-sol-center-garage-marb-marbella-landing|costa-sol-center-garage-marb-marbella-landing
+dr-medina-clinica-veterinaria-barcelona-landing|dr-medina-clinica-veterinaria-barcelona-landing
+farmacia-universidad-de-castel-castellon-de-la-plana-landing|farmacia-universidad-de-castel-castellon-de-la-plana-landing
+apartaments-els-quimics-gerona-landing|apartaments-els-quimics-gerona-landing
