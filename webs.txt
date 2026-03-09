@@ -565,3 +565,8 @@ hospedaje-don-pelayo-gijon-landing|hospedaje-don-pelayo-gijon-landing
 hospital-casaverde-extremadura-merida-landing|hospital-casaverde-extremadura-merida-landing
 fincas-pagès-reus-landing|fincas-pagès-reus-landing
 jel-peluqueros-madrid-landing|jel-peluqueros-madrid-landing
+play-say-donostia-/-san-sebastian-landing|play-say-donostia-/-san-sebastian-landing
+centro-medico-artromur-especia-lorca-landing|centro-medico-artromur-especia-lorca-landing
+reformas-y-tejados-azpilicueta-pamplona-landing|reformas-y-tejados-azpilicueta-pamplona-landing
+3abogados-madrid-landing|3abogados-madrid-landing
+seripau-gestoria-barcelona-barcelona-landing|seripau-gestoria-barcelona-barcelona-landing
