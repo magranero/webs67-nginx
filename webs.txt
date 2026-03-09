@@ -535,3 +535,8 @@ cerrajerias-teofilo-rodriguez-daganzo-de-arriba-landing|cerrajerias-teofilo-rodr
 rbr-instalaciones-o-milladoiro-landing|rbr-instalaciones-o-milladoiro-landing
 contabilidades-barcelona-sl-barcelona-landing|contabilidades-barcelona-sl-barcelona-landing
 tu-autoescuela-en-salamanca-salamanca-landing|tu-autoescuela-en-salamanca-salamanca-landing
+bufete-mayo-abogados-mostoles-landing|bufete-mayo-abogados-mostoles-landing
+la-negra-tomasa-madrid-landing|la-negra-tomasa-madrid-landing
+restaurante-hemisferio-loft-a-alcala-de-henares-landing|restaurante-hemisferio-loft-a-alcala-de-henares-landing
+la-venganza-de-malinche-rest-getafe-landing|la-venganza-de-malinche-rest-getafe-landing
+restaurante-el-balcon-del-parq-getafe-landing|restaurante-el-balcon-del-parq-getafe-landing
