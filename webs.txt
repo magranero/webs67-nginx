@@ -489,3 +489,4 @@ castizo-preview|castizo-preview
 vilascar-leganes-landing|vilascar-leganes-landing
 balance-triangle-madrid-landing|balance-triangle-madrid-landing
 bigg-chueca-madrid-landing|bigg-chueca-madrid-landing
+squmat--centro-de-entrenamiento-persona-madrid-landing|squmat--centro-de-entrenamiento-persona-madrid-landing
