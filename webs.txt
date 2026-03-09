@@ -560,3 +560,8 @@ construcciones-domeno-pamplona-landing|construcciones-domeno-pamplona-landing
 lupa-supermercados-astillero-landing|lupa-supermercados-astillero-landing
 centro-comercial-los-angeles-madrid-landing|centro-comercial-los-angeles-madrid-landing
 hotel-palau-de-girona-sant-julià-de-ramis-landing|hotel-palau-de-girona-sant-julià-de-ramis-landing
+nails-co-madrid-landing|nails-co-madrid-landing
+hospedaje-don-pelayo-gijon-landing|hospedaje-don-pelayo-gijon-landing
+hospital-casaverde-extremadura-merida-landing|hospital-casaverde-extremadura-merida-landing
+fincas-pagès-reus-landing|fincas-pagès-reus-landing
+jel-peluqueros-madrid-landing|jel-peluqueros-madrid-landing
