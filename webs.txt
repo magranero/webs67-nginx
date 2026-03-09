@@ -545,3 +545,8 @@ txirimiri-ibiza-madrid-landing|txirimiri-ibiza-madrid-landing
 hotel-eden-park-by-brava-hotel-riudellots-de-la-selva-landing|hotel-eden-park-by-brava-hotel-riudellots-de-la-selva-landing
 hostal-albany-leon-landing|hostal-albany-leon-landing
 hotel-asturias-gijon-landing|hotel-asturias-gijon-landing
+evidensia-elche-clinica-veteri-elx-landing|evidensia-elche-clinica-veteri-elx-landing
+moda-re-santander-santander-landing|moda-re-santander-santander-landing
+fitup-serrano-madrid-landing|fitup-serrano-madrid-landing
+talleres-ana--taller-mecanico-sant-adrià-de-besòs-landing|talleres-ana--taller-mecanico-sant-adrià-de-besòs-landing
+gestoria-barcelona-barcelona-landing|gestoria-barcelona-barcelona-landing
